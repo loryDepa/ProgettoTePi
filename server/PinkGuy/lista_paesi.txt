@@ -1,0 +1,58 @@
+Argentina - ar
+Australia - au
+Austria - at
+Belgium - be
+Brazil - br
+Bulgaria - bg
+Canada - ca
+China - cn
+Colombia - co
+Cuba - cu
+Czech republic - cz
+Egypt - eg
+France - fr
+Germany - de
+Greece - gr
+Hong kong - hk
+Hungary - hu
+India - in
+Indonesia - id
+Ireland - ie
+Israel - il
+Italy - it
+Japan - jp
+Latvia - lv
+Lebanon - lb
+Lithuania - lt
+Malaysia - my
+Mexico - mx
+Morocco - ma
+Netherland - nl
+New zealand - nz
+Nigeria - ng
+North korea - kp
+Norway - no
+Pakistan - pk
+Philippines - ph
+Poland - pl
+Portugal - pt
+Romania - ro
+Russia - ru
+Saudi arabia - sa
+Serbia - rs
+Singapore - sg
+Slovakia - sk
+Slovenia - si
+South africa - za
+South korea - kr
+Spain - es
+Sweden - se
+Switzerland - ch
+Taiwan - tw
+Thailand - th
+Turkey - tr
+Ukraine - ua
+United arab emirates - ae
+United kingdom - gb
+United states of america - us
+Venezuela - ve
